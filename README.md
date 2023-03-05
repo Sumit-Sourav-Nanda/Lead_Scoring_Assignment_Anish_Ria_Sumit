@@ -10,6 +10,8 @@ Files Attached:
 2. Lead_Scoring_Assignment_Python - ipynb File 
 3. Lead_Scoring_Assignment_Summary - Summary
 4. Lead_Scoring_Assignment_Subjective_Questions - Subjective Questions and Answers
+5. Leads - Data File
+6. Leads Data Dictionary - Data Dictionary
 
 
 
